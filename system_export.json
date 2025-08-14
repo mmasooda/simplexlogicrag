@@ -1,0 +1,3099 @@
+{
+  "system_stats": {
+    "total_components": 294,
+    "total_relationships": 119
+  },
+  "components": [
+    {
+      "part_number": "4100-5116",
+      "description": "Component 4100-5116 extracted from 4100Es4.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4100-1266",
+      "description": "Component 4100-1266 extracted from 4100Es4.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4100-1267",
+      "description": "Component 4100-1267 extracted from 4100Es4.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4100-1268",
+      "description": "Component 4100-1268 extracted from 4100Es4.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4100-1259",
+      "description": "Component 4100-1259 extracted from 4100Es4.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4100-1260",
+      "description": "Component 4100-1260 extracted from 4100Es4.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4906-9129",
+      "description": "Component 4906-9129 extracted from 4906-0002.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "2975-9178",
+      "description": "Component 2975-9178 extracted from Simplexcats.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "2099-9803",
+      "description": "Component 2099-9803 extracted from Simplexcats.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "2099-9804",
+      "description": "Component 2099-9804 extracted from Simplexcats.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "2099-9813",
+      "description": "Component 2099-9813 extracted from Simplexcats.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "2099-9814",
+      "description": "Component 2099-9814 extracted from Simplexcats.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "2099-9819",
+      "description": "Component 2099-9819 extracted from Simplexcats.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "2099-9820",
+      "description": "Component 2099-9820 extracted from Simplexcats.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "2099-9822",
+      "description": "Component 2099-9822 extracted from Simplexcats.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "2099-9828",
+      "description": "Component 2099-9828 extracted from Simplexcats.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "2975-9022",
+      "description": "Component 2975-9022 extracted from Simplexcats.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4099-9805",
+      "description": "Component 4099-9805 extracted from Simplexcats.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4081-9003",
+      "description": "Component 4081-9003 extracted from Simplexcats.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4081-9004",
+      "description": "Component 4081-9004 extracted from Simplexcats.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4081-9005",
+      "description": "Component 4081-9005 extracted from Simplexcats.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "2098-9808",
+      "description": "Component 2098-9808 extracted from Simplexcats.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4098-9806",
+      "description": "Component 4098-9806 extracted from Simplexcats.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4905-9835",
+      "description": "Component 4905-9835 extracted from Simplexcats.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4098-9845",
+      "description": "Component 4098-9845 extracted from Simplexcats.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4098-9846",
+      "description": "Component 4098-9846 extracted from Simplexcats.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4100-3105",
+      "description": "Component 4100-3105 extracted from 4100ES2.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4100-6031",
+      "description": "Component 4100-6031 extracted from 4100ES2.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4100-6032",
+      "description": "Component 4100-6032 extracted from 4100ES2.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4100-6033",
+      "description": "Component 4100-6033 extracted from 4100ES2.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4100-3104",
+      "description": "Component 4100-3104 extracted from 4100ES2.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4100-3101",
+      "description": "Component 4100-3101 extracted from 4100ES2.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4100-5005",
+      "description": "Component 4100-5005 extracted from 4100ES2.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4100-5015",
+      "description": "Component 4100-5015 extracted from 4100ES2.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4100-3201",
+      "description": "Component 4100-3201 extracted from 4100ES2.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4100-3202",
+      "description": "Component 4100-3202 extracted from 4100ES2.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4100-3203",
+      "description": "Component 4100-3203 extracted from 4100ES2.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4098-9789",
+      "description": "Component 4098-9789 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4098-9775",
+      "description": "Component 4098-9775 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4098-9791",
+      "description": "Component 4098-9791 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4098-9750",
+      "description": "Component 4098-9750 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4098-9792",
+      "description": "Component 4098-9792 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4098-9776",
+      "description": "Component 4098-9776 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4098-9751",
+      "description": "Component 4098-9751 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4098-9794",
+      "description": "Component 4098-9794 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4098-9755",
+      "description": "Component 4098-9755 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4099-9001",
+      "description": "Component 4099-9001 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4099-9004",
+      "description": "Component 4099-9004 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4098-9756",
+      "description": "Component 4098-9756 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4099-9002",
+      "description": "Component 4099-9002 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4099-9005",
+      "description": "Component 4099-9005 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4098-9780",
+      "description": "Component 4098-9780 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4099-9003",
+      "description": "Component 4099-9003 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4099-9006",
+      "description": "Component 4099-9006 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4099-9020",
+      "description": "Component 4099-9020 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4099-9021",
+      "description": "Component 4099-9021 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4090-9001",
+      "description": "Component 4090-9001 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4090-9051",
+      "description": "Component 4090-9051 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4009-9401",
+      "description": "Component 4009-9401 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4098-9795",
+      "description": "Component 4098-9795 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4098-9796",
+      "description": "Component 4098-9796 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4098-9754",
+      "description": "Component 4098-9754 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4098-9770",
+      "description": "Component 4098-9770 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4098-9771",
+      "description": "Component 4098-9771 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4098-9793",
+      "description": "Component 4098-9793 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4098-9777",
+      "description": "Component 4098-9777 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4098-9797",
+      "description": "Component 4098-9797 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4098-9798",
+      "description": "Component 4098-9798 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4098-9766",
+      "description": "Component 4098-9766 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4098-9767",
+      "description": "Component 4098-9767 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4098-9764",
+      "description": "Component 4098-9764 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4098-9734",
+      "description": "Component 4098-9734 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4098-9019",
+      "description": "Component 4098-9019 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4098-9020",
+      "description": "Component 4098-9020 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4099-9012",
+      "description": "Component 4099-9012 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4099-9015",
+      "description": "Component 4099-9015 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4090-9116",
+      "description": "Component 4090-9116 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4090-9122",
+      "description": "Component 4090-9122 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4090-9007",
+      "description": "Component 4090-9007 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4190-9050",
+      "description": "Component 4190-9050 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4190-9051",
+      "description": "Component 4190-9051 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4090-9008",
+      "description": "Component 4090-9008 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4090-9010",
+      "description": "Component 4090-9010 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4090-9002",
+      "description": "Component 4090-9002 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4090-9105",
+      "description": "Component 4090-9105 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4090-9107",
+      "description": "Component 4090-9107 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4090-9005",
+      "description": "Component 4090-9005 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "2975-9227",
+      "description": "Component 2975-9227 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4009-9809",
+      "description": "Component 4009-9809 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4090-9006",
+      "description": "Component 4090-9006 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4907-9001",
+      "description": "Component 4907-9001 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4090-9117",
+      "description": "Component 4090-9117 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4090-9120",
+      "description": "Component 4090-9120 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4090-9118",
+      "description": "Component 4090-9118 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4090-9119",
+      "description": "Component 4090-9119 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4100-1274",
+      "description": "Component 4100-1274 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4098-9772",
+      "description": "Component 4098-9772 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4098-9773",
+      "description": "Component 4098-9773 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4100-3103",
+      "description": "Component 4100-3103 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "2190-9153",
+      "description": "Component 2190-9153 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "2190-9154",
+      "description": "Component 2190-9154 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "2190-9161",
+      "description": "Component 2190-9161 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "2190-9162",
+      "description": "Component 2190-9162 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "2190-9155",
+      "description": "Component 2190-9155 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "2190-9156",
+      "description": "Component 2190-9156 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "2190-9163",
+      "description": "Component 2190-9163 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "2190-9164",
+      "description": "Component 2190-9164 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "2190-9157",
+      "description": "Component 2190-9157 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "2190-9158",
+      "description": "Component 2190-9158 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "2190-9169",
+      "description": "Component 2190-9169 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "2190-9170",
+      "description": "Component 2190-9170 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "2190-9159",
+      "description": "Component 2190-9159 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "2190-9160",
+      "description": "Component 2190-9160 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "2190-9173",
+      "description": "Component 2190-9173 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4100-3106",
+      "description": "Component 4100-3106 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4098-9757",
+      "description": "Component 4098-9757 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4098-9710",
+      "description": "Component 4098-9710 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "2099-9135",
+      "description": "Component 2099-9135 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "2099-9761",
+      "description": "Component 2099-9761 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "2099-9795",
+      "description": "Component 2099-9795 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "2099-9796",
+      "description": "Component 2099-9796 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "2099-9797",
+      "description": "Component 2099-9797 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "2190-9172",
+      "description": "Component 2190-9172 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4098-9702",
+      "description": "Component 4098-9702 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4098-9701",
+      "description": "Component 4098-9701 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4098-9703",
+      "description": "Component 4098-9703 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4098-9704",
+      "description": "Component 4098-9704 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4098-9705",
+      "description": "Component 4098-9705 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4098-9706",
+      "description": "Component 4098-9706 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4098-9707",
+      "description": "Component 4098-9707 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4098-9708",
+      "description": "Component 4098-9708 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4098-9709",
+      "description": "Component 4098-9709 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4098-9752",
+      "description": "Component 4098-9752 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4098-9714",
+      "description": "Component 4098-9714 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4098-9753",
+      "description": "Component 4098-9753 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4098-9781",
+      "description": "Component 4098-9781 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4098-9782",
+      "description": "Component 4098-9782 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4098-9783",
+      "description": "Component 4098-9783 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4098-9784",
+      "description": "Component 4098-9784 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4098-9785",
+      "description": "Component 4098-9785 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4098-9786",
+      "description": "Component 4098-9786 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4098-9787",
+      "description": "Component 4098-9787 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4009-9807",
+      "description": "Component 4009-9807 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4098-9774",
+      "description": "Component 4098-9774 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4098-9779",
+      "description": "Component 4098-9779 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4098-9733",
+      "description": "Component 4098-9733 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4098-9778",
+      "description": "Component 4098-9778 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4098-9717",
+      "description": "Component 4098-9717 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4100-3102",
+      "description": "Component 4100-3102 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4100-3107",
+      "description": "Component 4100-3107 extracted from 4090-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4009-9201",
+      "description": "Component 4009-9201 extracted from 4903-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4009-9301",
+      "description": "Component 4009-9301 extracted from 4903-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4903-9425",
+      "description": "Component 4903-9425 extracted from 4903-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4903-9426",
+      "description": "Component 4903-9426 extracted from 4903-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4903-9427",
+      "description": "Component 4903-9427 extracted from 4903-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4903-9431",
+      "description": "Component 4903-9431 extracted from 4903-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4903-9432",
+      "description": "Component 4903-9432 extracted from 4903-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4903-9433",
+      "description": "Component 4903-9433 extracted from 4903-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4905-9995",
+      "description": "Component 4905-9995 extracted from 4903-0011.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4090-5201",
+      "description": "Component 4090-5201 extracted from 4-4099-0004.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4099-5203",
+      "description": "Component 4099-5203 extracted from 4-4099-0004.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4099-5204",
+      "description": "Component 4099-5204 extracted from 4-4099-0004.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4099-9706",
+      "description": "Component 4099-9706 extracted from 4-4099-0004.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4905-9929",
+      "description": "Component 4905-9929 extracted from 25-S49WP-0001.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4090-9121",
+      "description": "Component 4090-9121 extracted from 9-4090-0004.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4090-9806",
+      "description": "Component 4090-9806 extracted from 9-4090-0004.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4090-9810",
+      "description": "Component 4090-9810 extracted from 9-4090-0004.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4090-9807",
+      "description": "Component 4090-9807 extracted from 9-4090-0004.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4081-9010",
+      "description": "Component 4081-9010 extracted from 9-4090-0004.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4081-9015",
+      "description": "Component 4081-9015 extracted from 9-4090-0004.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4081-9014",
+      "description": "Component 4081-9014 extracted from 9-4090-0004.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "7125-0026",
+      "description": "Multi-Candela TrueAlert A/Vs with horn and synchronized strobe provide convenient installation to standard electrical boxes. The enclosure designs are both impact and vandal resistant and provide a convenient strobe intensity selection.",
+      "category": "notification",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4906-9127",
+      "description": "Horn with Multi-Candela Strobe; strobe intensity selectable as: 15, 30, 75, or 110 candela; operates with SmartSync two-wire control",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4906-9128",
+      "description": "Ceiling Red White Horn with Multi-Candela Strobe; strobe intensity selectable as: 15, 30, 75, or 110 candela; operates with SmartSync two-wire control",
+      "category": "notification",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4906-9130",
+      "description": "Wall Mount A/V",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4905-9838",
+      "description": "Package of 20; field installed adhesive backed horn output attenuator; reduces output 5 to 6 dBA.",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4905-9994",
+      "description": "Red cover with white 'FIRE' lettering",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4090-9101",
+      "description": "Component 4090-9101 extracted from 8-4090-0003.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4090-9106",
+      "description": "Component 4090-9106 extracted from 8-4090-0003.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "7300-0026",
+      "description": "Component 7300-0026 extracted from 8-4090-0003.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "2081-9044",
+      "description": "Component 2081-9044 extracted from 8-4090-0003.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "2098-9209",
+      "description": "Component 2098-9209 extracted from 8-4090-0003.pdf",
+      "category": "accessory",
+      "compatible_with": [
+        "4098-9401",
+        "4098-9402",
+        "4098-9403",
+        "4098-9404"
+      ],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4098-9401",
+      "description": "Component 4098-9401 extracted from 8-4090-0003.pdf",
+      "category": "accessory",
+      "compatible_with": [
+        "4098-9402",
+        "4098-9403",
+        "4098-9404"
+      ],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4098-9402",
+      "description": "Component 4098-9402 extracted from 8-4090-0003.pdf",
+      "category": "accessory",
+      "compatible_with": [
+        "4098-9401",
+        "4098-9403",
+        "4098-9404"
+      ],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4098-9403",
+      "description": "Component 4098-9403 extracted from 8-4090-0003.pdf",
+      "category": "accessory",
+      "compatible_with": [
+        "4098-9401",
+        "4098-9402",
+        "4098-9404"
+      ],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4098-9404",
+      "description": "Component 4098-9404 extracted from 8-4090-0003.pdf",
+      "category": "accessory",
+      "compatible_with": [
+        "4098-9401",
+        "4098-9402",
+        "4098-9403"
+      ],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4098-9612",
+      "description": "Component 4098-9612 extracted from 8-4090-0003.pdf",
+      "category": "accessory",
+      "compatible_with": [
+        "4098-9788",
+        "4098-9613",
+        "4098-9684",
+        "4098-9614",
+        "4098-9615",
+        "4098-9683",
+        "4098-9601"
+      ],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4098-9788",
+      "description": "Component 4098-9788 extracted from 8-4090-0003.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4098-9613",
+      "description": "Component 4098-9613 extracted from 8-4090-0003.pdf",
+      "category": "accessory",
+      "compatible_with": [
+        "4098-9612",
+        "4098-9788",
+        "4098-9684",
+        "4098-9614",
+        "4098-9615",
+        "4098-9683",
+        "4098-9601",
+        "4098-9788"
+      ],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4098-9684",
+      "description": "Component 4098-9684 extracted from 8-4090-0003.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4098-9614",
+      "description": "Component 4098-9614 extracted from 8-4090-0003.pdf",
+      "category": "accessory",
+      "compatible_with": [
+        "4098-9612",
+        "4098-9788",
+        "4098-9613",
+        "4098-9684",
+        "4098-9615",
+        "4098-9683",
+        "4098-9601"
+      ],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4098-9615",
+      "description": "Component 4098-9615 extracted from 8-4090-0003.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4098-9683",
+      "description": "Component 4098-9683 extracted from 8-4090-0003.pdf",
+      "category": "accessory",
+      "compatible_with": [
+        "4098-9612",
+        "4098-9788",
+        "4098-9613",
+        "4098-9684",
+        "4098-9614",
+        "4098-9615",
+        "4098-9601",
+        "4098-9602",
+        "4098-9605",
+        "4098-9603"
+      ],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4098-9601",
+      "description": "Component 4098-9601 extracted from 8-4090-0003.pdf",
+      "category": "accessory",
+      "compatible_with": [
+        "4098-9612",
+        "4098-9788",
+        "4098-9613",
+        "4098-9684",
+        "4098-9614",
+        "4098-9615",
+        "4098-9683",
+        "4098-9602",
+        "4098-9605",
+        "4098-9603",
+        "4098-9685"
+      ],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4098-9602",
+      "description": "Component 4098-9602 extracted from 8-4090-0003.pdf",
+      "category": "accessory",
+      "compatible_with": [
+        "4098-9605",
+        "4098-9683",
+        "4098-9788"
+      ],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4098-9605",
+      "description": "Component 4098-9605 extracted from 8-4090-0003.pdf",
+      "category": "accessory",
+      "compatible_with": [
+        "4098-9602",
+        "4098-9683",
+        "4098-9788"
+      ],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4098-9603",
+      "description": "Component 4098-9603 extracted from 8-4090-0003.pdf",
+      "category": "accessory",
+      "compatible_with": [
+        "4098-9683"
+      ],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4098-9685",
+      "description": "Component 4098-9685 extracted from 8-4090-0003.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "2098-9201",
+      "description": "Component 2098-9201 extracted from 8-4090-0003.pdf",
+      "category": "accessory",
+      "compatible_with": [
+        "2098-9211",
+        "2098-9202",
+        "2098-9203",
+        "2098-9637",
+        "2098-9576",
+        "4098-9407",
+        "4098-9408"
+      ],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "2098-9211",
+      "description": "Component 2098-9211 extracted from 8-4090-0003.pdf",
+      "category": "accessory",
+      "compatible_with": [
+        "4098-9612",
+        "4098-9788",
+        "4098-9613",
+        "4098-9684",
+        "4098-9614",
+        "4098-9615",
+        "4098-9683",
+        "4098-9601",
+        "4098-9407",
+        "4098-9408",
+        "4098-9409",
+        "4098-9410"
+      ],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "2098-9202",
+      "description": "Component 2098-9202 extracted from 8-4090-0003.pdf",
+      "category": "accessory",
+      "compatible_with": [
+        "2098-9201",
+        "2098-9211",
+        "2098-9203",
+        "2098-9637",
+        "2098-9576",
+        "4098-9407",
+        "4098-9408"
+      ],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "2098-9203",
+      "description": "Component 2098-9203 extracted from 8-4090-0003.pdf",
+      "category": "accessory",
+      "compatible_with": [
+        "2098-9637"
+      ],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "2098-9637",
+      "description": "Component 2098-9637 extracted from 8-4090-0003.pdf",
+      "category": "accessory",
+      "compatible_with": [
+        "2098-9203"
+      ],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "2098-9576",
+      "description": "Component 2098-9576 extracted from 8-4090-0003.pdf",
+      "category": "accessory",
+      "compatible_with": [
+        "4098-9407",
+        "4098-9408"
+      ],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4098-9407",
+      "description": "Component 4098-9407 extracted from 8-4090-0003.pdf",
+      "category": "accessory",
+      "compatible_with": [
+        "2098-9201",
+        "2098-9211",
+        "2098-9202",
+        "2098-9203",
+        "2098-9637",
+        "2098-9576",
+        "4098-9408",
+        "4098-9409",
+        "4098-9410"
+      ],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4098-9408",
+      "description": "Component 4098-9408 extracted from 8-4090-0003.pdf",
+      "category": "accessory",
+      "compatible_with": [
+        "2098-9201",
+        "2098-9211",
+        "2098-9202",
+        "2098-9203",
+        "2098-9637",
+        "2098-9576",
+        "4098-9407",
+        "4098-9409",
+        "4098-9410"
+      ],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4098-9409",
+      "description": "Component 4098-9409 extracted from 8-4090-0003.pdf",
+      "category": "accessory",
+      "compatible_with": [
+        "4098-9407",
+        "4098-9408"
+      ],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4098-9410",
+      "description": "Component 4098-9410 extracted from 8-4090-0003.pdf",
+      "category": "accessory",
+      "compatible_with": [
+        "4098-9407",
+        "4098-9408",
+        "4098-9409"
+      ],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4090-9813",
+      "description": "Component 4090-9813 extracted from 8-4090-0003.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4090-9801",
+      "description": "Component 4090-9801 extracted from 8-4090-0003.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4090-9802",
+      "description": "Component 4090-9802 extracted from 8-4090-0003.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4081-9002",
+      "description": "Component 4081-9002 extracted from 8-4090-0003.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "01441-0001",
+      "description": "Component 01441-0001 extracted from 8-4090-0003.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4906-9133",
+      "description": "Component 4906-9133 extracted from nac dvcs 4.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4906-9134",
+      "description": "Component 4906-9134 extracted from nac dvcs 4.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "2975-9145",
+      "description": "Component 2975-9145 extracted from nac dvcs 4.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4905-9931",
+      "description": "Component 4905-9931 extracted from nac dvcs 4.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4905-9937",
+      "description": "Component 4905-9937 extracted from nac dvcs 4.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4905-9938",
+      "description": "Component 4905-9938 extracted from nac dvcs 4.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4905-9940",
+      "description": "Component 4905-9940 extracted from nac dvcs 4.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4905-9961",
+      "description": "Component 4905-9961 extracted from nac dvcs 4.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4906-9135",
+      "description": "Component 4906-9135 extracted from nac dvcs 4.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4906-9136",
+      "description": "Component 4906-9136 extracted from nac dvcs 4.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4905-9915",
+      "description": "Component 4905-9915 extracted from nac dvcs 4.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4905-9916",
+      "description": "Component 4905-9916 extracted from nac dvcs 4.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4905-9927",
+      "description": "Component 4905-9927 extracted from nac dvcs 4.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4905-9928",
+      "description": "Component 4905-9928 extracted from nac dvcs 4.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4905-9923",
+      "description": "Component 4905-9923 extracted from nac dvcs 4.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4902-9716",
+      "description": "Component 4902-9716 extracted from nac dvcs 4.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4902-9717",
+      "description": "Component 4902-9717 extracted from nac dvcs 4.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4905-9941",
+      "description": "Component 4905-9941 extracted from nac dvcs 4.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4905-9942",
+      "description": "Component 4905-9942 extracted from nac dvcs 4.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4906-9151",
+      "description": "Component 4906-9151 extracted from nac dvcs 4.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4906-9153",
+      "description": "Component 4906-9153 extracted from nac dvcs 4.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4905-9996",
+      "description": "Component 4905-9996 extracted from nac dvcs 4.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4905-9845",
+      "description": "Component 4905-9845 extracted from nac dvcs 4.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4905-9811",
+      "description": "Component 4905-9811 extracted from nac dvcs 4.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4905-9997",
+      "description": "Component 4905-9997 extracted from nac dvcs 4.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4905-9846",
+      "description": "Component 4905-9846 extracted from nac dvcs 4.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4905-9991",
+      "description": "Component 4905-9991 extracted from nac dvcs 4.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4905-9812",
+      "description": "Component 4905-9812 extracted from nac dvcs 4.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4905-9903",
+      "description": "Component 4905-9903 extracted from nac dvcs 4.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4905-9914",
+      "description": "Component 4905-9914 extracted from nac dvcs 4.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4905-9922",
+      "description": "Component 4905-9922 extracted from nac dvcs 4.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4905-9946",
+      "description": "Component 4905-9946 extracted from nac dvcs 4.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4905-9947",
+      "description": "Component 4905-9947 extracted from nac dvcs 4.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4905-9998",
+      "description": "Component 4905-9998 extracted from nac dvcs 4.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4903-9356",
+      "description": "Component 4903-9356 extracted from nac dvcs 4.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4903-9357",
+      "description": "Component 4903-9357 extracted from nac dvcs 4.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4903-9358",
+      "description": "Component 4903-9358 extracted from nac dvcs 4.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4903-9359",
+      "description": "Component 4903-9359 extracted from nac dvcs 4.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4903-9360",
+      "description": "Component 4903-9360 extracted from nac dvcs 4.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4903-9361",
+      "description": "Component 4903-9361 extracted from nac dvcs 4.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4902-9721",
+      "description": "Component 4902-9721 extracted from nac dvcs 4.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "2905-9946",
+      "description": "Component 2905-9946 extracted from nac dvcs 4.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4906-9154",
+      "description": "Component 4906-9154 extracted from nac dvcs 4.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4906-9157",
+      "description": "Component 4906-9157 extracted from nac dvcs 4.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4906-9158",
+      "description": "Component 4906-9158 extracted from nac dvcs 4.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4906-9159",
+      "description": "Component 4906-9159 extracted from nac dvcs 4.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4903-9196",
+      "description": "Component 4903-9196 extracted from nac dvcs 4.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4903-9197",
+      "description": "Component 4903-9197 extracted from nac dvcs 4.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4903-9198",
+      "description": "Component 4903-9198 extracted from nac dvcs 4.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4905-9815",
+      "description": "Component 4905-9815 extracted from nac dvcs 4.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4081-9008",
+      "description": "Component 4081-9008 extracted from nac dvcs 4.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4905-9817",
+      "description": "Component 4905-9817 extracted from nac dvcs 4.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4905-9818",
+      "description": "Component 4905-9818 extracted from nac dvcs 4.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4904-9174",
+      "description": "Component 4904-9174 extracted from nac dvcs 4.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4904-9175",
+      "description": "Component 4904-9175 extracted from nac dvcs 4.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4904-9176",
+      "description": "Component 4904-9176 extracted from nac dvcs 4.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4904-9177",
+      "description": "Component 4904-9177 extracted from nac dvcs 4.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4904-9178",
+      "description": "Component 4904-9178 extracted from nac dvcs 4.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4905-9910",
+      "description": "Component 4905-9910 extracted from nac dvcs 4.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4905-9926",
+      "description": "Component 4905-9926 extracted from nac dvcs 4.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4903-9252",
+      "description": "Component 4903-9252 extracted from nac dvcs 4.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4903-9253",
+      "description": "Component 4903-9253 extracted from nac dvcs 4.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4903-9254",
+      "description": "Component 4903-9254 extracted from nac dvcs 4.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4903-9255",
+      "description": "Component 4903-9255 extracted from nac dvcs 4.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4905-9939",
+      "description": "Component 4905-9939 extracted from nac dvcs 4.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4904-9183",
+      "description": "Component 4904-9183 extracted from nac dvcs 4.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4904-9184",
+      "description": "Component 4904-9184 extracted from nac dvcs 4.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4904-9185",
+      "description": "Component 4904-9185 extracted from nac dvcs 4.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4904-9345",
+      "description": "Component 4904-9345 extracted from nac dvcs 4.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4904-9346",
+      "description": "Component 4904-9346 extracted from nac dvcs 4.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4904-9360",
+      "description": "Component 4904-9360 extracted from nac dvcs 4.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4903-9148",
+      "description": "Component 4903-9148 extracted from nac dvcs 4.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4903-9149",
+      "description": "Component 4903-9149 extracted from nac dvcs 4.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4903-9150",
+      "description": "Component 4903-9150 extracted from nac dvcs 4.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4903-9153",
+      "description": "Component 4903-9153 extracted from nac dvcs 4.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4903-9193",
+      "description": "Component 4903-9193 extracted from nac dvcs 4.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4907-9007",
+      "description": "Component 4907-9007 extracted from nac dvcs 4.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4907-9002",
+      "description": "Component 4907-9002 extracted from nac dvcs 4.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4907-9003",
+      "description": "Component 4907-9003 extracted from nac dvcs 4.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4907-9005",
+      "description": "Component 4907-9005 extracted from nac dvcs 4.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    },
+    {
+      "part_number": "4907-9006",
+      "description": "Component 4907-9006 extracted from nac dvcs 4.pdf",
+      "category": "accessory",
+      "compatible_with": [],
+      "requires": [],
+      "excludes": []
+    }
+  ],
+  "relationships": [
+    {
+      "source": "2098-9209",
+      "target": "4098-9401",
+      "type": "compatible_with"
+    },
+    {
+      "source": "2098-9209",
+      "target": "4098-9402",
+      "type": "compatible_with"
+    },
+    {
+      "source": "2098-9209",
+      "target": "4098-9403",
+      "type": "compatible_with"
+    },
+    {
+      "source": "2098-9209",
+      "target": "4098-9404",
+      "type": "compatible_with"
+    },
+    {
+      "source": "4098-9401",
+      "target": "4098-9402",
+      "type": "compatible_with"
+    },
+    {
+      "source": "4098-9401",
+      "target": "4098-9403",
+      "type": "compatible_with"
+    },
+    {
+      "source": "4098-9401",
+      "target": "4098-9404",
+      "type": "compatible_with"
+    },
+    {
+      "source": "4098-9402",
+      "target": "4098-9401",
+      "type": "compatible_with"
+    },
+    {
+      "source": "4098-9402",
+      "target": "4098-9403",
+      "type": "compatible_with"
+    },
+    {
+      "source": "4098-9402",
+      "target": "4098-9404",
+      "type": "compatible_with"
+    },
+    {
+      "source": "4098-9403",
+      "target": "4098-9401",
+      "type": "compatible_with"
+    },
+    {
+      "source": "4098-9403",
+      "target": "4098-9402",
+      "type": "compatible_with"
+    },
+    {
+      "source": "4098-9403",
+      "target": "4098-9404",
+      "type": "compatible_with"
+    },
+    {
+      "source": "4098-9404",
+      "target": "4098-9401",
+      "type": "compatible_with"
+    },
+    {
+      "source": "4098-9404",
+      "target": "4098-9402",
+      "type": "compatible_with"
+    },
+    {
+      "source": "4098-9404",
+      "target": "4098-9403",
+      "type": "compatible_with"
+    },
+    {
+      "source": "4098-9612",
+      "target": "4098-9788",
+      "type": "compatible_with"
+    },
+    {
+      "source": "4098-9612",
+      "target": "4098-9613",
+      "type": "compatible_with"
+    },
+    {
+      "source": "4098-9612",
+      "target": "4098-9684",
+      "type": "compatible_with"
+    },
+    {
+      "source": "4098-9612",
+      "target": "4098-9614",
+      "type": "compatible_with"
+    },
+    {
+      "source": "4098-9612",
+      "target": "4098-9615",
+      "type": "compatible_with"
+    },
+    {
+      "source": "4098-9612",
+      "target": "4098-9683",
+      "type": "compatible_with"
+    },
+    {
+      "source": "4098-9612",
+      "target": "4098-9601",
+      "type": "compatible_with"
+    },
+    {
+      "source": "4098-9613",
+      "target": "4098-9612",
+      "type": "compatible_with"
+    },
+    {
+      "source": "4098-9613",
+      "target": "4098-9788",
+      "type": "compatible_with"
+    },
+    {
+      "source": "4098-9613",
+      "target": "4098-9788",
+      "type": "compatible_with"
+    },
+    {
+      "source": "4098-9613",
+      "target": "4098-9684",
+      "type": "compatible_with"
+    },
+    {
+      "source": "4098-9613",
+      "target": "4098-9614",
+      "type": "compatible_with"
+    },
+    {
+      "source": "4098-9613",
+      "target": "4098-9615",
+      "type": "compatible_with"
+    },
+    {
+      "source": "4098-9613",
+      "target": "4098-9683",
+      "type": "compatible_with"
+    },
+    {
+      "source": "4098-9613",
+      "target": "4098-9601",
+      "type": "compatible_with"
+    },
+    {
+      "source": "4098-9614",
+      "target": "4098-9612",
+      "type": "compatible_with"
+    },
+    {
+      "source": "4098-9614",
+      "target": "4098-9788",
+      "type": "compatible_with"
+    },
+    {
+      "source": "4098-9614",
+      "target": "4098-9613",
+      "type": "compatible_with"
+    },
+    {
+      "source": "4098-9614",
+      "target": "4098-9684",
+      "type": "compatible_with"
+    },
+    {
+      "source": "4098-9614",
+      "target": "4098-9615",
+      "type": "compatible_with"
+    },
+    {
+      "source": "4098-9614",
+      "target": "4098-9683",
+      "type": "compatible_with"
+    },
+    {
+      "source": "4098-9614",
+      "target": "4098-9601",
+      "type": "compatible_with"
+    },
+    {
+      "source": "4098-9683",
+      "target": "4098-9612",
+      "type": "compatible_with"
+    },
+    {
+      "source": "4098-9683",
+      "target": "4098-9788",
+      "type": "compatible_with"
+    },
+    {
+      "source": "4098-9683",
+      "target": "4098-9613",
+      "type": "compatible_with"
+    },
+    {
+      "source": "4098-9683",
+      "target": "4098-9684",
+      "type": "compatible_with"
+    },
+    {
+      "source": "4098-9683",
+      "target": "4098-9614",
+      "type": "compatible_with"
+    },
+    {
+      "source": "4098-9683",
+      "target": "4098-9615",
+      "type": "compatible_with"
+    },
+    {
+      "source": "4098-9683",
+      "target": "4098-9601",
+      "type": "compatible_with"
+    },
+    {
+      "source": "4098-9683",
+      "target": "4098-9602",
+      "type": "compatible_with"
+    },
+    {
+      "source": "4098-9683",
+      "target": "4098-9605",
+      "type": "compatible_with"
+    },
+    {
+      "source": "4098-9683",
+      "target": "4098-9603",
+      "type": "compatible_with"
+    },
+    {
+      "source": "4098-9601",
+      "target": "4098-9612",
+      "type": "compatible_with"
+    },
+    {
+      "source": "4098-9601",
+      "target": "4098-9788",
+      "type": "compatible_with"
+    },
+    {
+      "source": "4098-9601",
+      "target": "4098-9613",
+      "type": "compatible_with"
+    },
+    {
+      "source": "4098-9601",
+      "target": "4098-9684",
+      "type": "compatible_with"
+    },
+    {
+      "source": "4098-9601",
+      "target": "4098-9614",
+      "type": "compatible_with"
+    },
+    {
+      "source": "4098-9601",
+      "target": "4098-9615",
+      "type": "compatible_with"
+    },
+    {
+      "source": "4098-9601",
+      "target": "4098-9683",
+      "type": "compatible_with"
+    },
+    {
+      "source": "4098-9601",
+      "target": "4098-9602",
+      "type": "compatible_with"
+    },
+    {
+      "source": "4098-9601",
+      "target": "4098-9605",
+      "type": "compatible_with"
+    },
+    {
+      "source": "4098-9601",
+      "target": "4098-9603",
+      "type": "compatible_with"
+    },
+    {
+      "source": "4098-9601",
+      "target": "4098-9685",
+      "type": "compatible_with"
+    },
+    {
+      "source": "4098-9602",
+      "target": "4098-9605",
+      "type": "compatible_with"
+    },
+    {
+      "source": "4098-9602",
+      "target": "4098-9683",
+      "type": "compatible_with"
+    },
+    {
+      "source": "4098-9602",
+      "target": "4098-9788",
+      "type": "compatible_with"
+    },
+    {
+      "source": "4098-9605",
+      "target": "4098-9602",
+      "type": "compatible_with"
+    },
+    {
+      "source": "4098-9605",
+      "target": "4098-9683",
+      "type": "compatible_with"
+    },
+    {
+      "source": "4098-9605",
+      "target": "4098-9788",
+      "type": "compatible_with"
+    },
+    {
+      "source": "4098-9603",
+      "target": "4098-9683",
+      "type": "compatible_with"
+    },
+    {
+      "source": "2098-9201",
+      "target": "2098-9211",
+      "type": "compatible_with"
+    },
+    {
+      "source": "2098-9201",
+      "target": "2098-9202",
+      "type": "compatible_with"
+    },
+    {
+      "source": "2098-9201",
+      "target": "2098-9203",
+      "type": "compatible_with"
+    },
+    {
+      "source": "2098-9201",
+      "target": "2098-9637",
+      "type": "compatible_with"
+    },
+    {
+      "source": "2098-9201",
+      "target": "2098-9576",
+      "type": "compatible_with"
+    },
+    {
+      "source": "2098-9201",
+      "target": "4098-9407",
+      "type": "compatible_with"
+    },
+    {
+      "source": "2098-9201",
+      "target": "4098-9408",
+      "type": "compatible_with"
+    },
+    {
+      "source": "2098-9211",
+      "target": "4098-9612",
+      "type": "compatible_with"
+    },
+    {
+      "source": "2098-9211",
+      "target": "4098-9788",
+      "type": "compatible_with"
+    },
+    {
+      "source": "2098-9211",
+      "target": "4098-9613",
+      "type": "compatible_with"
+    },
+    {
+      "source": "2098-9211",
+      "target": "4098-9684",
+      "type": "compatible_with"
+    },
+    {
+      "source": "2098-9211",
+      "target": "4098-9614",
+      "type": "compatible_with"
+    },
+    {
+      "source": "2098-9211",
+      "target": "4098-9615",
+      "type": "compatible_with"
+    },
+    {
+      "source": "2098-9211",
+      "target": "4098-9683",
+      "type": "compatible_with"
+    },
+    {
+      "source": "2098-9211",
+      "target": "4098-9601",
+      "type": "compatible_with"
+    },
+    {
+      "source": "2098-9211",
+      "target": "4098-9407",
+      "type": "compatible_with"
+    },
+    {
+      "source": "2098-9211",
+      "target": "4098-9408",
+      "type": "compatible_with"
+    },
+    {
+      "source": "2098-9211",
+      "target": "4098-9409",
+      "type": "compatible_with"
+    },
+    {
+      "source": "2098-9211",
+      "target": "4098-9410",
+      "type": "compatible_with"
+    },
+    {
+      "source": "2098-9202",
+      "target": "2098-9201",
+      "type": "compatible_with"
+    },
+    {
+      "source": "2098-9202",
+      "target": "2098-9211",
+      "type": "compatible_with"
+    },
+    {
+      "source": "2098-9202",
+      "target": "2098-9203",
+      "type": "compatible_with"
+    },
+    {
+      "source": "2098-9202",
+      "target": "2098-9637",
+      "type": "compatible_with"
+    },
+    {
+      "source": "2098-9202",
+      "target": "2098-9576",
+      "type": "compatible_with"
+    },
+    {
+      "source": "2098-9202",
+      "target": "4098-9407",
+      "type": "compatible_with"
+    },
+    {
+      "source": "2098-9202",
+      "target": "4098-9408",
+      "type": "compatible_with"
+    },
+    {
+      "source": "2098-9203",
+      "target": "2098-9637",
+      "type": "compatible_with"
+    },
+    {
+      "source": "2098-9637",
+      "target": "2098-9203",
+      "type": "compatible_with"
+    },
+    {
+      "source": "2098-9576",
+      "target": "4098-9407",
+      "type": "compatible_with"
+    },
+    {
+      "source": "2098-9576",
+      "target": "4098-9408",
+      "type": "compatible_with"
+    },
+    {
+      "source": "4098-9407",
+      "target": "2098-9201",
+      "type": "compatible_with"
+    },
+    {
+      "source": "4098-9407",
+      "target": "2098-9211",
+      "type": "compatible_with"
+    },
+    {
+      "source": "4098-9407",
+      "target": "2098-9202",
+      "type": "compatible_with"
+    },
+    {
+      "source": "4098-9407",
+      "target": "2098-9203",
+      "type": "compatible_with"
+    },
+    {
+      "source": "4098-9407",
+      "target": "2098-9637",
+      "type": "compatible_with"
+    },
+    {
+      "source": "4098-9407",
+      "target": "2098-9576",
+      "type": "compatible_with"
+    },
+    {
+      "source": "4098-9407",
+      "target": "4098-9408",
+      "type": "compatible_with"
+    },
+    {
+      "source": "4098-9407",
+      "target": "4098-9409",
+      "type": "compatible_with"
+    },
+    {
+      "source": "4098-9407",
+      "target": "4098-9410",
+      "type": "compatible_with"
+    },
+    {
+      "source": "4098-9408",
+      "target": "2098-9201",
+      "type": "compatible_with"
+    },
+    {
+      "source": "4098-9408",
+      "target": "2098-9211",
+      "type": "compatible_with"
+    },
+    {
+      "source": "4098-9408",
+      "target": "2098-9202",
+      "type": "compatible_with"
+    },
+    {
+      "source": "4098-9408",
+      "target": "2098-9203",
+      "type": "compatible_with"
+    },
+    {
+      "source": "4098-9408",
+      "target": "2098-9637",
+      "type": "compatible_with"
+    },
+    {
+      "source": "4098-9408",
+      "target": "2098-9576",
+      "type": "compatible_with"
+    },
+    {
+      "source": "4098-9408",
+      "target": "4098-9407",
+      "type": "compatible_with"
+    },
+    {
+      "source": "4098-9408",
+      "target": "4098-9409",
+      "type": "compatible_with"
+    },
+    {
+      "source": "4098-9408",
+      "target": "4098-9410",
+      "type": "compatible_with"
+    },
+    {
+      "source": "4098-9409",
+      "target": "4098-9407",
+      "type": "compatible_with"
+    },
+    {
+      "source": "4098-9409",
+      "target": "4098-9408",
+      "type": "compatible_with"
+    },
+    {
+      "source": "4098-9410",
+      "target": "4098-9407",
+      "type": "compatible_with"
+    },
+    {
+      "source": "4098-9410",
+      "target": "4098-9408",
+      "type": "compatible_with"
+    },
+    {
+      "source": "4098-9410",
+      "target": "4098-9409",
+      "type": "compatible_with"
+    }
+  ]
+}

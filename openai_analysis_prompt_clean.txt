@@ -1,0 +1,20 @@
+# SimplexRAG System Analysis for ChatGPT-5
+
+## Problem: Incorrect Fire Alarm Component Compatibility Answers
+
+Our SimplexRAG system gives wrong answers for "what bases compatible with Simplex 4098-9714":
+
+**Our Wrong Answer:** 4098-9788, 4098-9684, 4098-9615, 4098-9685, 4098-9407, 4098-9408, 2098-9201, 2098-9202, 2098-9203
+
+**Correct ChatGPT-5 Answer:** 4098-9792, 4098-9789, 4098-9791, 4098-9780, 4098-9794, 4098-9793, 4098-9766, 4098-9777, 4098-9770, 4098-9771
+
+## System: 294 components, 119 relationships, NetworkX + TF-IDF + OpenAI
+
+## Request: Complete redesign recommendations for:
+1. Document ingestion and OpenAI prompts
+2. NetworkX graph structure for fire alarm relationships
+3. Vector database optimization for technical components
+4. Answer generation logic combining graph + vector search
+5. Overall architecture for ChatGPT-5 level accuracy
+
+GitHub repository available with full system data and schemas.
