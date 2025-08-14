@@ -1,0 +1,75 @@
+{
+  "QUESTION": "My Simplexrag system is giving wrong answers for component compatibility. How do we redesign ingestion, schemas, retrieval, fusion, and prompting so answers match the gold ones consistently for the full Simplex product line?",
+  "FAILING_QA": [
+    {
+      "question": "what all bases compatible with Simplex 4098-9714 Head",
+      "answer": "The Simplex 4098-9714 head is compatible with the following bases: 4098-9788, 4098-9684, 4098-9615, 4098-9685, 4098-9407, 4098-9408, 2098-9201, 2098-9202, 2098-9203",
+      "failure_notes": "Listed legacy/non-matching SKUs; missed sounder/isolator/CO variants; no function categorization"
+    }
+  ],
+  "GOLD_QA": [
+    {
+      "question": "what all bases compatible with Simplex 4098-9714 Smoke Detector Head",
+      "answer": "Standard/relay bases: 4098-9792 (Standard base), 4098-9789 (Remote LED base), 4098-9791 (4-wire relay), 4098-9780 (2-wire relay). Sounder base: 4098-9794 (Integrated piezo sounder). Isolator bases: 4098-9793 (IDNet isolator), 4098-9766/4098-9777 (Isolator2 bases). CO sensor bases: 4098-9770 (CO base), 4098-9771 (CO sounder base)",
+      "source_type": "datasheet/official"
+    },
+    {
+      "question": "what all bases compatible with Simplex 4098-9754 Smoke/heat Detector Head",
+      "answer": "Multi-Sensor bases: 4098-9796 (standard), 4098-9795 (sounder). Standard bases: 4098-9792, 4098-9789 (relay), 4098-9794 (sounder), 4098-9791 (4-wire relay), 4098-9793 (isolator)",
+      "source_type": "datasheet/official"
+    },
+    {
+      "question": "what all bases compatible with Simplex 4098-9733 heat Detector Head",
+      "answer": "Standard bases: 4098-9792, 4098-9789 (relay), 4098-9791 (4-wire relay), 4098-9780 (2-wire relay), 4098-9793 (isolator), 4098-9794 (sounder). CO bases: 4098-9797, 4098-9798",
+      "source_type": "datasheet/official"
+    }
+  ],
+  "REPO_SNAPSHOT": {
+    "files": ["simplex_rag/database.py", "simplex_rag/orchestrator.py", "simplex_rag/llm_interface.py", "simplex_rag/ingestion/datasheet_ingestor.py"],
+    "important_functions": [
+      "SimplexDatabase.add_component()", 
+      "SimplexDatabase.find_related_components()",
+      "SimplexOrchestrator.answer_question()",
+      "DatasheetIngestor.ingest_file()"
+    ],
+    "ingestion_pipeline": {
+      "method": "PDF parsing + OpenAI batch API",
+      "chunking": "Text chunks without table awareness",
+      "relationship_extraction": "Failed during full dataset ingestion"
+    },
+    "retrieval_pipeline": {
+      "method": "TF-IDF vector search + NetworkX graph traversal",
+      "issues": "Poor semantic understanding, missing product hierarchy"
+    }
+  },
+  "GRAPH_SCHEMA": {
+    "nodes": [
+      {"type": "Component", "properties": ["part_number", "description", "category", "compatible_with", "requires", "excludes"]},
+      {"categories": ["DETECTOR", "BASE", "MODULE", "PANEL", "NOTIFICATION", "ACCESSORY"]}
+    ],
+    "edges": [
+      {"type": "compatible_with", "direction": "bidirectional"},
+      {"type": "requires", "direction": "unidirectional"}
+    ],
+    "constraints": ["Enum-based categories", "JSON array relationships"]
+  },
+  "VECTOR_SCHEMA": {
+    "collections": ["TF-IDF sparse matrix"],
+    "chunking": {"method": "text-based", "size": "variable", "table_awareness": false},
+    "metadata": ["part_number", "description", "category"]
+  },
+  "GRAPH_VIEW": {
+    "current_4098_9714_relationships": ["4098-9788", "4098-9684", "4098-9615", "4098-9685", "4098-9407", "4098-9408", "2098-9201", "2098-9202", "2098-9203"],
+    "missing_relationships": ["4098-9792", "4098-9789", "4098-9791", "4098-9780", "4098-9794", "4098-9793", "4098-9766", "4098-9777", "4098-9770", "4098-9771"]
+  },
+  "VECTOR_VIEW": {
+    "current_retrieval": "TF-IDF cosine similarity",
+    "issues": ["No table row preference", "Poor part number matching", "Missing functional categorization"]
+  },
+  "RULES": {
+    "protocols": ["IDNet", "MAPNET II"],
+    "must_cite": true,
+    "panel_constraints": ["Some relay bases not compatible with 2120 CDT"],
+    "product_families": ["TrueAlarm", "4100ES", "4010ES"]
+  }
+}
